@@ -5,7 +5,7 @@ $(document).ready(function() {
             navigation:{
                 'bulletsColor': '#fff',
                 'position': 'right',
-                'tooltips': ['首页', '项目', '技能', '教育', '工作', '联系']
+                'tooltips': ['首页', '教育', '技能', '工作', '联系']
             }
         });
         $('.initing').removeClass('initing');
